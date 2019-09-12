@@ -1,0 +1,57 @@
+Udemy full-stack from scratch .txt
+
+2019-09-12 09:04
+
+https://devcenter.heroku.com/
+
+heroku robert@robertlgorman.com Edmonds1962!!
+
+git --version
+
+
+
+
+episode 36 security, security, crashed, oh shit!!
+
+
+
+JSON.stringify
+
+
+axios send async to nodejs server
+
+
+episode 34, 
+
+The async function declaration defines an asynchronous function, which returns an AsyncFunction object. An asynchronous function is a function which operates asynchronously via the event loop, using an implicit Promise to return its result. But the syntax and structure of your code using async functions is much more like using standard synchronous functions.
+
+
+axios async request, 
+
+
+
+
+
+
+
+2019-09-10 09:22
+
+episodes 31, 32 review for details, promise, etc. stuck point here and there
+
+terminal nodemon command: npm run watch
+
+mongodb: robert@robertlgorman.com rgaz1962##
+
+episode 32 contains key code mongo _id
+
+stuck!!! wrap axios in an if statement!!
+i book marked in udemy..time stamp: 18:51
+
+"CRUD" redirects here. For other uses, see Crud.
+In computer programming, create, read, update, and delete[1] (CRUD) are the four basic functions of persistent storage.[2] 
+
+
+
+
+
+
